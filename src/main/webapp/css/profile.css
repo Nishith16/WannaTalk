@@ -1,0 +1,18 @@
+body{
+}
+#div_post{
+    display:inline-block;
+    position:relative;
+    
+  }
+ #div_post:hover{
+
+ 
+ }
+  #post_textarea{
+    display:block;
+  }
+  ul li{
+  position :relative;
+  display:inline;
+  }
